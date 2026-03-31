@@ -1,8 +1,8 @@
 window.CLIENT_CONFIG = {
   installer: {
-    nome: "AC Arte Doce",
-    whats: "(11) 97239-1992",
-    pix: "11 97239 1992 / Catarina Barbara"
+    nome: "Komemora",
+    whats: "(14) 98825-0966",
+    pix: "14 98825 0966 / Fernanda Messagi"
   },
-  logo: "/climatizaorcamentos/clientes/fernanda/logo.png"
+  logo: "/orcamento/clientes/fernanda/logo.png"
 };
